@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "450696520816",
+    "firebase_url": "https://admiral-taxi-default-rtdb.firebaseio.com",
+    "project_id": "admiral-taxi",
+    "storage_bucket": "admiral-taxi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450696520816:android:54196e51eeaee72e8540b5",
+        "android_client_info": {
+          "package_name": "com.example.admiral_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsJBPyZ15FwNmAjbaXAvbMwwbv1fiZAkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
